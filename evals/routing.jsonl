@@ -1,0 +1,10 @@
+{"id": "routing-1", "query": "谢谢你，晚安。", "skill": null}
+{"id": "routing-2", "query": "解释一下Go的goroutine。", "skill": null}
+{"id": "routing-3", "query": "今天心情还行，随便聊聊。", "skill": null}
+{"id": "routing-4", "query": "给我做用户登录接口。", "skill": null}
+{"id": "routing-5", "query": "晚饭想吃什么，顺便想开始健身。", "skill": "food-nutrition"}
+{"id": "routing-6", "query": "想改善睡眠，主要要居家运动安排。", "skill": "fitness"}
+{"id": "routing-7", "query": "旅行预算怎么算，我只关心现金够不够。", "skill": "personal-finance"}
+{"id": "routing-8", "query": "同事的沟通问题，帮我写给主管的工作排序请求。", "skill": "career-assistant"}
+{"id": "routing-9", "query": "旅游回来很累，今晚想轻松玩文字游戏。", "skill": "leisure-entertainment"}
+{"id": "routing-10", "query": "帮我分析你们的Skill加载器源码。", "skill": null}
