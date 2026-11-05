@@ -1,6 +1,6 @@
 # 知枝生活 Skills
 
-10 个面向中文自然语言需求的综合生活 Skill，适配 `zhizhi-agent-runtime` 本地 Skill Catalog。每个 Skill 独立可用，最终交付均为聊天内 Markdown 文本。
+10 个面向自然语言需求的综合生活 Skill，适配 `zhizhi-agent-runtime` 本地 Skill Catalog。每个 Skill 独立可用，最终交付均为聊天内 Markdown 文本。
 
 ## 能力一览
 
